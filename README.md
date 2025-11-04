@@ -221,12 +221,8 @@ Feel free to reach out if you have an interesting project or just want to connec
 
 ⭐️ **If you find my work interesting, consider giving my repositories a star!** ⭐️
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%; background-color: lightblue; padding: 20px;"/>
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
