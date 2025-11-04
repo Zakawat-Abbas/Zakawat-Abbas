@@ -4,10 +4,12 @@
 
 ### Software Engineer | Full-Stack Developer | ML/AI Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://zakawat-abbas-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://zakawat-abbas-portfolio.vercel.app/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Visit_Site-181717?style=for-the-badge&logo=github)](https://zakawat-abbas.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Zakawat-Abbas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakawat-abbas)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakawatabbas123@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakawatabbas123@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+92_342_323_5676-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923423235676)
 
 </div>
 
@@ -172,42 +174,12 @@ const zakawatAbbas = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakawat-Abbas&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakawat-Abbas&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zakawat-Abbas&theme=radical&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zakawat-Abbas&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 🏅 **Certificate of Presentation** - IC3SE-2024, Amity University, India  
 🎓 **Build AR Powered E-commerce Site Bootcamp** - Open Weaver (2022)  
 🎓 **Python Programming | Numpy & Pandas Bootcamp** - Open Weaver (2022)  
 🎓 **Data Science Internship Completion** - ADDITECH-SIM (2022)
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://zakawat-abbas-portfolio.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Visit_Site-181717?style=for-the-badge&logo=github)](https://zakawat-abbas.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakawat-abbas)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakawatabbas123@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+92_342_323_5676-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923423235676)
-
-</div>
 
 ---
 
@@ -236,7 +208,7 @@ const zakawatAbbas = {
 
 ### 💭 Quote I Live By
 
-*"The best way to predict the future is to invent it." - Alan Kay*
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler*
 
 ---
 
