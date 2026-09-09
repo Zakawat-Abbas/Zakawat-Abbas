@@ -38,7 +38,7 @@ const zakawatAbbas = {
 };
 ```
 
-🚀 **Currently Leading:** ZakCodeX, building custom software, SaaS, AI automation, and web/mobile apps for businesses worldwide.
+🚀 **Currently Leading:** ZakCodeX, building custom software, SaaS, AI automation, and web/mobile apps for businesses worldwide
 💻 **Currently Building:** Scalable full-stack applications, AI solutions, cloud infrastructure, and automation systems  
 🌱 **Currently Learning:** Advanced AI architectures, MLOps, distributed systems, and cloud-native technologies  
 💬 **Ask Me About:** React.js, Next.js, Python, FastAPI, Node.js, AWS, AI Automation, SaaS & Software Architecture  
