@@ -52,12 +52,9 @@ const zakawatAbbas = {
 **Jan 2024 - Present**  
 *Remote, Wolverhampton, United Kingdom*
 
-- Lead a UK-based software company delivering custom applications, AI automation, cloud solutions, SaaS platforms, web applications, and mobile applications.
-- Work with startups, SMEs, and enterprises to transform ideas and operational challenges into scalable digital products.
-- Lead product strategy, technical architecture, development, deployment, and end-to-end project delivery.
-- Build solutions with React.js, Next.js, Python, FastAPI, Node.js, AWS, PostgreSQL, and modern AI APIs.
-- Design scalable systems and automation workflows that improve efficiency and support measurable business growth.
-- Manage international client relationships and software delivery across the UK, USA, UAE, and other markets.
+- Lead ZakCodeX, delivering scalable software, SaaS, AI automation, and cloud solutions.
+- Manage product strategy, architecture, development, deployment, and end-to-end delivery.
+- Work with international clients to build efficient digital products that support business growth.
 
 ### 🏢 Software Engineer @ CodeBit AI
 **May 2025 - Mar 2026**  
