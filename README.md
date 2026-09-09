@@ -1,9 +1,10 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Zakawat Abbas
 
-### Software Engineer | Full-Stack Developer | ML/AI Engineer
+### Founder & CEO @ ZakCodeX | Software Engineer | Full-Stack & AI Engineer
 
+[![ZakCodeX](https://img.shields.io/badge/ZakCodeX-Visit_Website-2563EB?style=for-the-badge)](https://zakcodex.com/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://zakawat-abbas-portfolio.vercel.app/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Visit_Site-181717?style=for-the-badge&logo=github)](https://zakawat-abbas.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Zakawat-Abbas)
@@ -20,46 +21,96 @@
 ```javascript
 const zakawatAbbas = {
     location: "Karachi, Pakistan 🇵🇰",
-    currentRole: "Software Engineer @ CodeBit AI",
+    currentRole: "Founder & CEO @ ZakCodeX",
+    company: "UK-based Software & AI Solutions Company 🇬🇧",
     education: "Bachelor's in Computer System Engineering (NEDUET)",
-    experience: "3+ years in Full-Stack & ML/AI Development",
-    interests: ["Web Development", "Machine Learning", "Cloud Computing", "AI Applications"],
-    currentlyWorking: "Serverless Applications with AWS & ML Model Deployment",
-    lookingToCollaborate: "Open Source Projects & Innovative Solutions",
-    funFact: "I build AI systems that can see, hear, and understand! 🤖"
+    experience: "4+ years in Software Development, Cloud & AI",
+    expertise: [
+        "Full-Stack Development",
+        "AI Solutions & Automation",
+        "Cloud Computing",
+        "Software Architecture"
+    ],
+    techStack: ["React.js", "Next.js", "Python", "FastAPI", "Node.js", "AWS"],
+    mission: "Building scalable digital products that solve real business problems",
+    lookingToCollaborate: "Startups, SMEs, Enterprises & Innovative Teams",
+    funFact: "I build software and AI systems that turn ideas into real products! 🚀"
 };
 ```
 
-🔭 **Currently Working On:** Building scalable serverless applications using AWS Lambda, Python, and Next.js with integrated ML models  
-🌱 **Currently Learning:** Advanced AWS architectures, MLOps, and cutting-edge AI techniques  
-💬 **Ask Me About:** React.js, Next.js, Python, AWS, Machine Learning, Data Science  
-⚡ **Fun Fact:** Published research paper at IEEE conference on Sign Language Recognition!
+🚀 **Currently Leading:** ZakCodeX, building custom software, SaaS platforms, AI-powered automation, web and mobile applications for businesses worldwide  
+💻 **Currently Building:** Scalable full-stack applications, AI solutions, cloud infrastructure, and automation systems  
+🌱 **Currently Learning:** Advanced AI architectures, MLOps, distributed systems, and cloud-native technologies  
+💬 **Ask Me About:** React.js, Next.js, Python, FastAPI, Node.js, AWS, AI Automation, SaaS & Software Architecture  
+⚡ **Fun Fact:** Published research in IEEE on a two-way Sign Language Recognition system!
 
 ---
 
 ## 💼 Professional Experience
 
-🏢 **Software Engineer @ CodeBit AI** (May 2025 - Present)  
-*Remote, United States*
-- Designing serverless applications with AWS Lambda, Python & Next.js
-- Collaborating with data scientists to integrate ML models into production
-- Implementing CI/CD pipelines for automated deployments
+### 🚀 Founder & CEO @ ZakCodeX
+**Jan 2024 - Present**  
+*Remote, Wolverhampton, United Kingdom*
 
-🏢 **Software Engineer @ H&S Real Estate & Deca Properties** (Jun 2024 - Oct 2025)  
+- Lead a UK-based software company delivering custom applications, AI automation, cloud solutions, SaaS platforms, web applications, and mobile applications.
+- Work with startups, SMEs, and enterprises to transform ideas and operational challenges into scalable digital products.
+- Lead product strategy, technical architecture, development, deployment, and end-to-end project delivery.
+- Build solutions with React.js, Next.js, Python, FastAPI, Node.js, AWS, PostgreSQL, and modern AI APIs.
+- Design scalable systems and automation workflows that improve efficiency and support measurable business growth.
+- Manage international client relationships and software delivery across the UK, USA, UAE, and other markets.
+
+### 🏢 Software Engineer @ CodeBit AI
+**May 2025 - Mar 2026**  
+*Remote, United States*
+
+- Designed and developed serverless applications using AWS Lambda, Python, and Next.js.
+- Collaborated with data scientists to integrate machine learning models into production systems.
+- Implemented CI/CD pipelines for automated deployments and reliable software delivery.
+
+### 🏢 Software Engineer @ H&S Real Estate
+**Jun 2024 - Oct 2025**  
 *On-site, Karachi, Pakistan*
-- Developed SEO-optimized websites with React.js and Next.js
-- Enhanced performance and user experience across multiple platforms
-- Managed deployment pipelines and DNS configurations
 
-🏢 **Full Stack Developer @ F5-STUDIO** (Dec 2023 - Jun 2024)  
+- Developed, maintained, and optimized company websites.
+- Improved website performance, SEO, and overall user experience.
+- Managed deployment infrastructure and DNS configurations.
+
+### 🏢 Software Engineer @ Deca Properties
+**Jun 2024 - Oct 2025**  
+*On-site, Karachi, Pakistan*
+
+- Developed responsive and SEO-optimized websites using React.js and Next.js.
+- Managed deployment pipelines and production environments.
+- Collaborated with design teams to deliver polished digital experiences.
+
+### 🏢 Frontend Engineer @ Rehani Soko
+**May 2024 - May 2025**  
+*Remote, United States — Freelance*
+
+- Built and optimized dynamic interfaces using Vue.js and React.js.
+- Developed reusable frontend components.
+- Ensured cross-browser compatibility and mobile responsiveness.
+
+### 🏢 Full Stack Developer @ F5-STUDIO
+**Dec 2023 - Jun 2024**  
 *Remote, United States*
-- Built full-stack applications with React.js, Next.js, Node.js & Tailwind CSS
-- Integrated APIs for seamless data flow and optimal performance
 
-🏢 **Software Engineer @ Additech-Sim** (Aug 2022 - Dec 2023)  
+- Built full-stack applications using React.js, Next.js, Node.js, and Tailwind CSS.
+- Integrated APIs and backend services for seamless application functionality.
+
+### 🏢 Software Engineer @ Additech-Sim
+**Aug 2022 - Dec 2023**  
+*Remote, Stuttgart, Germany — Part-time*
+
+- Designed full-stack applications using Python and JavaScript.
+- Built machine learning models and implemented data pipelines for real-time insights.
+
+### 📊 Data Science Intern @ Additech-Sim
+**Jan 2022 - Jun 2022**  
 *Remote, Stuttgart, Germany*
-- Designed full-stack applications using Python and JavaScript
-- Built ML models and implemented data pipelines for real-time insights
+
+- Enhanced an Automatic Machine Learning Model Classifier.
+- Implemented Reinforcement Learning with Particle Swarm Optimization for optimization projects.
 
 ---
 
@@ -164,7 +215,7 @@ const zakawatAbbas = {
 
 ## 📚 Publications
 
-📄 **Zakwat Abbas, et al. (2024).** *"Voice of Hearing and Speech Impaired People"*  
+📄 **Zakawat Abbas, et al. (2024).** *"Voice of Hearing and Speech Impaired People"*  
 📅 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)  
 🏛️ Amity University, Greater Noida, India (May 9-11, 2024)  
 📖 Published in IEEE Xplore | DOI: [10.1109/IC3SE62002.2024.10593248](https://ieeexplore.ieee.org/document/10593248)
@@ -185,22 +236,22 @@ const zakawatAbbas = {
 
 ## 💡 What I Bring To The Table
 
-- ✅ **Full-Stack Expertise:** Seamless integration of frontend and backend technologies
-- ✅ **Cloud Native:** Proficient in AWS serverless architectures and CI/CD pipelines
-- ✅ **ML/AI Integration:** Experience deploying machine learning models to production
-- ✅ **Performance Optimization:** Proven track record of improving application efficiency
-- ✅ **Collaborative Mindset:** Strong team player with excellent communication skills
-- ✅ **Continuous Learner:** Always staying updated with latest technologies and best practices
+- ✅ **Technical Leadership:** Leading software strategy, architecture, and delivery across client projects
+- ✅ **Full-Stack Expertise:** Seamless integration of frontend, backend, APIs, and databases
+- ✅ **AI & Automation:** Building and integrating AI-powered systems and business automation
+- ✅ **Cloud Native:** Proficient in AWS architectures, Docker, CI/CD, and modern deployment workflows
+- ✅ **Product Mindset:** Turning business requirements into scalable, maintainable digital products
+- ✅ **International Delivery:** Experience working with clients and teams across multiple countries
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- 🚀 Contribute to more open-source projects
-- 📚 Master advanced AWS architectures and MLOps
-- 🤝 Collaborate with innovative teams on cutting-edge AI solutions
-- 📝 Publish more research papers in ML/AI domain
-- 🌟 Help aspiring developers through mentorship and content creation
+- 🚀 Grow ZakCodeX and deliver more high-impact software and AI projects
+- 🤖 Build advanced AI automation and intelligent SaaS products
+- ☁️ Deepen expertise in cloud-native architecture, MLOps, and scalable distributed systems
+- 🤝 Build long-term partnerships with startups, SMEs, and international businesses
+- 📝 Continue research, technical writing, and contributions to the developer community
 
 ---
 
@@ -214,8 +265,10 @@ const zakawatAbbas = {
 
 ### 🤝 Open For Collaboration
 
-I'm always interested in working on exciting projects and collaborating with talented individuals.  
-Feel free to reach out if you have an interesting project or just want to connect!
+I'm always interested in building meaningful software products, AI solutions, and scalable digital platforms.  
+If you're working on an interesting idea, startup, SaaS product, or business challenge, feel free to connect.
+
+[![ZakCodeX](https://img.shields.io/badge/Build_With_ZakCodeX-Visit_Website-2563EB?style=for-the-badge)](https://zakcodex.com/)
 
 ---
 
